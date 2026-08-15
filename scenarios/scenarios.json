@@ -1105,7 +1105,7 @@
         "name": "Before the Black Throne"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_a",
         "code": "beyond_the_gates_of_sleep",
         "encounter_sets": [
             {
@@ -1130,7 +1130,7 @@
         "name": "Beyond the Gates of Sleep"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_b",
         "code": "waking_nightmare",
         "encounter_sets": [
             {
@@ -1158,7 +1158,7 @@
         "name": "Waking Nightmare"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_a",
         "code": "the_search_for_kadath",
         "encounter_sets": [
             {
@@ -1183,7 +1183,7 @@
         "name": "The Search for Kadath"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_b",
         "code": "a_thousand_shapes_of_horror",
         "encounter_sets": [
             {
@@ -1211,7 +1211,7 @@
         "name": "A Thousand Shapes of Horror"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_a",
         "code": "dark_side_of_the_moon",
         "encounter_sets": [
             {
@@ -1230,7 +1230,7 @@
         "name": "Dark Side of the Moon"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_b",
         "code": "point_of_no_return",
         "encounter_sets": [
             {
@@ -1271,7 +1271,7 @@
         "name": "Point of No Return"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_a",
         "code": "where_the_gods_dwell",
         "encounter_sets": [
             {
@@ -1293,7 +1293,7 @@
         "name": "Where the Gods Dwell"
     },
     {
-        "campaign_code": "tde",
+        "campaign_code": "tde_b",
         "code": "weaver_of_the_cosmos",
         "encounter_sets": [
             {
@@ -4222,7 +4222,8 @@
                 "code": "single_group"
             }
         ],
-        "name": "The Labyrinths of Lunacy"
+        "name": "The Labyrinths of Lunacy",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/3a/bc/3abc09ae-b9f5-4426-863f-540c548870ee/the_labyrinths_of_lunacy_rules.pdf"
     },
     {
         "code": "the_eternal_slumber",
@@ -4241,7 +4242,8 @@
                 "code": "sands_of_egypt"
             }
         ],
-        "name": "The Eternal Slumber"
+        "name": "The Eternal Slumber",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/4f/34/4f34877d-f095-41d0-bd52-202a5b35d864/guardians_of_the_abyss_rules.pdf"
     },
     {
         "code": "the_nights_usurper",
@@ -4260,7 +4262,8 @@
                 "code": "sands_of_egypt"
             }
         ],
-        "name": "The Night's Usurper"
+        "name": "The Night's Usurper",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/4f/34/4f34877d-f095-41d0-bd52-202a5b35d864/guardians_of_the_abyss_rules.pdf"
     },
     {
         "code": "murder_at_the_excelsior_hotel",
@@ -4285,7 +4288,8 @@
                 "code": "vile_experiments"
             }
         ],
-        "name": "Murder at the Excelsior Hotel"
+        "name": "Murder at the Excelsior Hotel",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/71/c2/71c24ce4-4582-4f4d-bcc4-b74e7758e7a8/ahc38_rules.pdf"
     },
     {
         "code": "the_blob_that_ate_everything",
@@ -4304,7 +4308,8 @@
                 "code": "migo_incursion"
             }
         ],
-        "name": "The Blob That Ate Everything"
+        "name": "The Blob That Ate Everything",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/48/a4/48a43b7f-85c5-415d-8f84-5143d904d62c/ahc45_rulebook.pdf"
     },
     {
         "code": "war_of_the_outer_gods",
@@ -4323,7 +4328,8 @@
                 "code": "swarm_of_assimilation"
             }
         ],
-        "name": "War of the Outer Gods"
+        "name": "War of the Outer Gods",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/b4/fb/b4fb1d96-2a6d-4e2a-9afd-fe87033feb07/ahc59_rulebook.pdf"
     },
     {
         "code": "machinations_through_time",
@@ -4339,7 +4345,8 @@
                 "code": "machinations_through_time_single_group"
             }
         ],
-        "name": "Machinations Through Time"
+        "name": "Machinations Through Time",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/f1/f4/f1f4dfa2-5f23-44e3-90fa-7539fbbf4de1/ahc62_rulebook.pdf"
     },
     {
         "code": "fortune_and_folly",
@@ -4355,7 +4362,8 @@
                 "code": "plan_in_shambles"
             }
         ],
-        "name": "Fortune and Folly"
+        "name": "Fortune and Folly",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/51/57/5157fe87-df13-4508-aa54-aece3052f499/ahc71_rulebook_v2-compressed.pdf"
     },
     {
         "code": "the_midwinter_gala",
@@ -4365,7 +4373,8 @@
                 "code": "the_midwinter_gala"
             }
         ],
-        "name": "The Midwinter Gala"
+        "name": "The Midwinter Gala",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/d2/14/d2144b64-6fa6-456f-9268-2685f49310b9/ahc80_rulebook-web.pdf"
     },
     {
         "code": "the_blob_that_ate_everything_else",
@@ -4390,7 +4399,8 @@
                 "code": "migo_incursion_2"
             }
         ],
-        "name": "The Blob That Ate Everything ELSE"
+        "name": "The Blob That Ate Everything ELSE",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/ec/04/ec04d8d6-e6c2-44dc-bd19-c750bf3f288f/gcop2301_the_blob_that_ate_everything_else_rules_v7.pdf"
     },
     {
         "code": "film_fatale",
@@ -4409,7 +4419,8 @@
                 "code": "forgotten_island"
             }
         ],
-        "name": "Film Fatale"
+        "name": "Film Fatale",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/f6/87/f68792a2-04f2-42a1-8954-f61dc42ad7d5/ahc85_film_fatale_rulebook-web.pdf"
     },
     {
         "code": "read_or_die",
@@ -4446,7 +4457,8 @@
                 "code": "armitages_fate"
             }
         ],
-        "name": "Read or Die"
+        "name": "Read or Die",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/28/54/28547425-6352-43db-a2e7-b2fb99ad37c1/read_or_die_rules_insert_good.pdf"
     },
     {
         "code": "all_or_nothing",
@@ -4475,7 +4487,8 @@
                 "code": "arkham"
             }
         ],
-        "name": "All or Nothing"
+        "name": "All or Nothing",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/f7/f6/f7f6d8d4-7f5a-4066-a3c7-d1cdefcb376b/all_or_nothing_rules_insert.pdf"
     },
     {
         "code": "bad_blood",
@@ -4512,7 +4525,8 @@
                 "code": "arkham"
             }
         ],
-        "name": "Bad Blood"
+        "name": "Bad Blood",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/5f/dc/5fdcad96-faae-44ae-98c7-b2083508b778/bad_blood_rules_insert-good.pdf"
     },
     {
         "code": "by_the_book",
@@ -4543,7 +4557,8 @@
                 "code": "striking_fear"
             }
         ],
-        "name": "By the Book"
+        "name": "By the Book",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/6f/5b/6f5b617f-f5c6-4b95-a86a-0d3d7c80635e/bythebookinsert.pdf"
     },
     {
         "code": "red_tide_rising",
@@ -4578,7 +4593,8 @@
                 "code": "arkham"
             }
         ],
-        "name": "Red Tide Rising"
+        "name": "Red Tide Rising",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/7a/86/7a86ba75-849a-45ba-b1ee-d0a4b760b780/red_tide_rising_rules_insert_v2.pdf"
     },
     {
         "code": "laid_to_rest",
@@ -4609,7 +4625,8 @@
                 "code": "witchcraft"
             }
         ],
-        "name": "Laid to Rest"
+        "name": "Laid to Rest",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/c8/40/c840a302-06f7-4d86-9122-1d636ee9c889/laid_to_rest_rules_insert.pdf"
     },
     {
         "code": "relics_of_the_past",
@@ -4650,7 +4667,8 @@
                 "code": "arkham"
             }
         ],
-        "name": "Relics of the Past"
+        "name": "Relics of the Past",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/19/6f/196fb2a2-9595-4c23-a7d4-de8ebea2a299/relics_of_the_past_rules_insert.pdf"
     },
     {
         "code": "enthralling_encore",
@@ -4681,6 +4699,7 @@
                 "code": "rats"
             }
         ],
-        "name": "Enthralling Encore"
+        "name": "Enthralling Encore",
+        "rules_insert_url": "https://images-cdn.fantasyflightgames.com/filer_public/46/5f/465f7b17-87c4-41b0-bae9-8538aaa646cb/enthralling_encore_rules_insert.pdf"
     }
 ]

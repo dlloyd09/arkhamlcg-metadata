@@ -26,6 +26,10 @@ export const scenarioSchema = z.strictObject({
         )
         .describe("Encounter sets used by the scenario."),
     name: z.string().describe("Display name of the scenario."),
+    rules_insert_url: z
+        .url()
+        .optional()
+        .describe("URL of the scenario rules insert."),
     variant_of_code: z
         .string()
         .optional()

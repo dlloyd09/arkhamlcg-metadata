@@ -1,6 +1,10 @@
 import { z } from "zod";
 
 export const campaignSchema = z.strictObject({
+    campaign_guide_url: z
+        .url()
+        .optional()
+        .describe("URL of the campaign guide."),
     code: z.string().describe("Unique code identifying the campaign."),
     cycle_code: z
         .string()
