@@ -6,6 +6,10 @@ export const scenarioSchema = z.strictObject({
         .optional()
         .describe("Code of the campaign containing the scenario."),
     code: z.string().describe("Unique code identifying the scenario."),
+    cycle_code: z
+        .string()
+        .optional()
+        .describe("Code of the cycle containing the scenario."),
     encounter_sets: z
         .array(
             z.strictObject({

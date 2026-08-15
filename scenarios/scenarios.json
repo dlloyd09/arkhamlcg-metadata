@@ -4187,6 +4187,7 @@
     },
     {
         "code": "curse_of_the_rougarou",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "bayou"
@@ -4199,6 +4200,7 @@
     },
     {
         "code": "carnevale_of_horrors",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "venice"
@@ -4208,6 +4210,7 @@
     },
     {
         "code": "the_labyrinths_of_lunacy",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "in_the_labyrinths_of_lunacy"
@@ -4223,6 +4226,7 @@
     },
     {
         "code": "the_eternal_slumber",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "the_eternal_slumber"
@@ -4241,6 +4245,7 @@
     },
     {
         "code": "the_nights_usurper",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "the_nights_usurper"
@@ -4259,6 +4264,7 @@
     },
     {
         "code": "murder_at_the_excelsior_hotel",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "murder_at_the_excelsior_hotel"
@@ -4283,6 +4289,7 @@
     },
     {
         "code": "the_blob_that_ate_everything",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "blob"
@@ -4301,6 +4308,7 @@
     },
     {
         "code": "war_of_the_outer_gods",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "war_of_the_outer_gods"
@@ -4319,6 +4327,7 @@
     },
     {
         "code": "machinations_through_time",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "machinations_through_time"
@@ -4334,6 +4343,7 @@
     },
     {
         "code": "fortune_and_folly",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "fortune_and_folly"
@@ -4349,6 +4359,7 @@
     },
     {
         "code": "the_midwinter_gala",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "the_midwinter_gala"
@@ -4358,6 +4369,7 @@
     },
     {
         "code": "the_blob_that_ate_everything_else",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "blob"
@@ -4382,6 +4394,7 @@
     },
     {
         "code": "film_fatale",
+        "cycle_code": "side_stories",
         "encounter_sets": [
             {
                 "code": "film_fatale"
@@ -4400,6 +4413,7 @@
     },
     {
         "code": "read_or_die",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "read_or_die"
@@ -4436,6 +4450,7 @@
     },
     {
         "code": "all_or_nothing",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "all_or_nothing"
@@ -4464,6 +4479,7 @@
     },
     {
         "code": "bad_blood",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "bad_blood"
@@ -4500,6 +4516,7 @@
     },
     {
         "code": "by_the_book",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "by_the_book"
@@ -4530,6 +4547,7 @@
     },
     {
         "code": "red_tide_rising",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "red_tide_rising"
@@ -4564,6 +4582,7 @@
     },
     {
         "code": "laid_to_rest",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "laid_to_rest"
@@ -4594,6 +4613,7 @@
     },
     {
         "code": "relics_of_the_past",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "relics_of_the_past"
@@ -4634,6 +4654,7 @@
     },
     {
         "code": "enthralling_encore",
+        "cycle_code": "parallel",
         "encounter_sets": [
             {
                 "code": "enthralling_encore"
