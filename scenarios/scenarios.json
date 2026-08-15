@@ -2924,7 +2924,8 @@
                 "code": "chilling_cold"
             }
         ],
-        "name": "Return to The Gathering"
+        "name": "Return to The Gathering",
+        "variant_of_code": "the_gathering"
     },
     {
         "campaign_code": "rtnotz",
@@ -2959,7 +2960,8 @@
                 "code": "torch"
             }
         ],
-        "name": "Return to The Midnight Masks"
+        "name": "Return to The Midnight Masks",
+        "variant_of_code": "the_midnight_masks"
     },
     {
         "campaign_code": "rtnotz",
@@ -3009,7 +3011,8 @@
                 "code": "torch"
             }
         ],
-        "name": "Return to The Devourer Below"
+        "name": "Return to The Devourer Below",
+        "variant_of_code": "the_devourer_below"
     },
     {
         "campaign_code": "rtdwl",
@@ -3043,7 +3046,8 @@
                 "code": "yog_sothoths_emissaries"
             }
         ],
-        "name": "Return to Extracurricular Activity"
+        "name": "Return to Extracurricular Activity",
+        "variant_of_code": "extracurricular_activity"
     },
     {
         "campaign_code": "rtdwl",
@@ -3071,7 +3075,8 @@
                 "code": "erratic_fear"
             }
         ],
-        "name": "Return to The House Always Wins"
+        "name": "Return to The House Always Wins",
+        "variant_of_code": "the_house_always_wins"
     },
     {
         "campaign_code": "rtdwl",
@@ -3099,7 +3104,8 @@
                 "code": "secret_doors"
             }
         ],
-        "name": "Return to The Miskatonic Museum"
+        "name": "Return to The Miskatonic Museum",
+        "variant_of_code": "the_miskatonic_museum"
     },
     {
         "campaign_code": "rtdwl",
@@ -3124,7 +3130,8 @@
                 "code": "pentagram"
             }
         ],
-        "name": "Return to The Essex County Express"
+        "name": "Return to The Essex County Express",
+        "variant_of_code": "the_essex_county_express"
     },
     {
         "campaign_code": "rtdwl",
@@ -3152,7 +3159,8 @@
                 "code": "naomis_crew"
             }
         ],
-        "name": "Return to Blood on the Altar"
+        "name": "Return to Blood on the Altar",
+        "variant_of_code": "blood_on_the_altar"
     },
     {
         "campaign_code": "rtdwl",
@@ -3177,7 +3185,8 @@
                 "code": "erratic_fear"
             }
         ],
-        "name": "Return to Undimensioned and Unseen"
+        "name": "Return to Undimensioned and Unseen",
+        "variant_of_code": "undimensioned_and_unseen"
     },
     {
         "campaign_code": "rtdwl",
@@ -3211,7 +3220,8 @@
                 "code": "hideous_abominations"
             }
         ],
-        "name": "Return to Where Doom Awaits"
+        "name": "Return to Where Doom Awaits",
+        "variant_of_code": "where_doom_awaits"
     },
     {
         "campaign_code": "rtdwl",
@@ -3236,7 +3246,8 @@
                 "code": "yog_sothoths_emissaries"
             }
         ],
-        "name": "Return to Lost in Time and Space"
+        "name": "Return to Lost in Time and Space",
+        "variant_of_code": "lost_in_time_and_space"
     },
     {
         "campaign_code": "rtptc",
@@ -3267,7 +3278,8 @@
                 "code": "rats"
             }
         ],
-        "name": "Return to Curtain Call"
+        "name": "Return to Curtain Call",
+        "variant_of_code": "curtain_call"
     },
     {
         "campaign_code": "rtptc",
@@ -3292,7 +3304,8 @@
                 "code": "delusory_evils"
             }
         ],
-        "name": "Return to The Last King"
+        "name": "Return to The Last King",
+        "variant_of_code": "the_last_king"
     },
     {
         "campaign_code": "rtptc",
@@ -3325,7 +3338,8 @@
                 "code": "the_last_king"
             }
         ],
-        "name": "Return to Echoes of the Past"
+        "name": "Return to Echoes of the Past",
+        "variant_of_code": "echoes_of_the_past"
     },
     {
         "campaign_code": "rtptc",
@@ -3357,7 +3371,8 @@
                 "code": "the_last_king"
             }
         ],
-        "name": "Return to The Unspeakable Oath"
+        "name": "Return to The Unspeakable Oath",
+        "variant_of_code": "the_unspeakable_oath"
     },
     {
         "campaign_code": "rtptc",
@@ -3390,7 +3405,8 @@
                 "code": "the_last_king"
             }
         ],
-        "name": "Return to A Phantom of Truth"
+        "name": "Return to A Phantom of Truth",
+        "variant_of_code": "a_phantom_of_truth"
     },
     {
         "campaign_code": "rtptc",
@@ -3416,7 +3432,8 @@
                 "code": "the_last_king"
             }
         ],
-        "name": "Return to The Pallid Mask"
+        "name": "Return to The Pallid Mask",
+        "variant_of_code": "the_pallid_mask"
     },
     {
         "campaign_code": "rtptc",
@@ -3457,7 +3474,8 @@
                 "code": "the_last_king"
             }
         ],
-        "name": "Return to Black Stars Rise"
+        "name": "Return to Black Stars Rise",
+        "variant_of_code": "black_stars_rise"
     },
     {
         "campaign_code": "rtptc",
@@ -3485,7 +3503,8 @@
                 "code": "neurotic_fear"
             }
         ],
-        "name": "Return to Dim Carcosa"
+        "name": "Return to Dim Carcosa",
+        "variant_of_code": "dim_carcosa"
     },
     {
         "campaign_code": "rttfa",
@@ -3522,7 +3541,8 @@
                 "code": "ancient_evils"
             }
         ],
-        "name": "Return to The Untamed Wilds"
+        "name": "Return to The Untamed Wilds",
+        "variant_of_code": "the_untamed_wilds"
     },
     {
         "campaign_code": "rttfa",
@@ -3560,7 +3580,8 @@
                 "code": "serpents"
             }
         ],
-        "name": "Return to The Doom of Eztli"
+        "name": "Return to The Doom of Eztli",
+        "variant_of_code": "the_doom_of_eztli"
     },
     {
         "campaign_code": "rttfa",
@@ -3597,7 +3618,8 @@
                 "code": "arkham"
             }
         ],
-        "name": "Return to Threads of Fate"
+        "name": "Return to Threads of Fate",
+        "variant_of_code": "threads_of_fate"
     },
     {
         "campaign_code": "rttfa",
@@ -3632,7 +3654,8 @@
                 "code": "return_to_the_doom_of_eztli"
             }
         ],
-        "name": "Return to The Boundary Beyond"
+        "name": "Return to The Boundary Beyond",
+        "variant_of_code": "the_boundary_beyond"
     },
     {
         "campaign_code": "rttfa",
@@ -3663,7 +3686,8 @@
                 "code": "poison"
             }
         ],
-        "name": "Return to Heart of the Elders, Part I"
+        "name": "Return to Heart of the Elders, Part I",
+        "variant_of_code": "pillars_of_judgment"
     },
     {
         "campaign_code": "rttfa",
@@ -3698,7 +3722,8 @@
                 "code": "return_to_the_doom_of_eztli"
             }
         ],
-        "name": "Return to Heart of the Elders, Part II"
+        "name": "Return to Heart of the Elders, Part II",
+        "variant_of_code": "knyan"
     },
     {
         "campaign_code": "rttfa",
@@ -3723,7 +3748,8 @@
                 "code": "striking_fear"
             }
         ],
-        "name": "Return to The City of Archives"
+        "name": "Return to The City of Archives",
+        "variant_of_code": "the_city_of_archives"
     },
     {
         "campaign_code": "rttfa",
@@ -3755,7 +3781,8 @@
                 "code": "return_to_the_doom_of_eztli"
             }
         ],
-        "name": "Return to The Depths of Yoth"
+        "name": "Return to The Depths of Yoth",
+        "variant_of_code": "the_depths_of_yoth"
     },
     {
         "campaign_code": "rttfa",
@@ -3783,7 +3810,8 @@
                 "code": "agents_of_yig"
             }
         ],
-        "name": "Return to Shattered Aeons"
+        "name": "Return to Shattered Aeons",
+        "variant_of_code": "shattered_aeons"
     },
     {
         "campaign_code": "rttfa",
@@ -3827,7 +3855,8 @@
                 "code": "serpents"
             }
         ],
-        "name": "Return to Turn Back Time"
+        "name": "Return to Turn Back Time",
+        "variant_of_code": "turn_back_time"
     },
     {
         "campaign_code": "rttcu",
@@ -3865,7 +3894,8 @@
                 "code": "return_to_at_deaths_doorstep"
             }
         ],
-        "name": "Return to Disappearance at the Twilight Estate"
+        "name": "Return to Disappearance at the Twilight Estate",
+        "variant_of_code": "disappearance_at_the_twilight_estate"
     },
     {
         "campaign_code": "rttcu",
@@ -3907,7 +3937,8 @@
                 "code": "return_to_the_devourer_below"
             }
         ],
-        "name": "Return to The Witching Hour"
+        "name": "Return to The Witching Hour",
+        "variant_of_code": "the_witching_hour"
     },
     {
         "campaign_code": "rttcu",
@@ -3941,7 +3972,8 @@
                 "code": "the_watcher"
             }
         ],
-        "name": "Return to At Death's Doorstep"
+        "name": "Return to At Death's Doorstep",
+        "variant_of_code": "at_deaths_doorstep"
     },
     {
         "campaign_code": "rttcu",
@@ -3969,7 +4001,8 @@
                 "code": "rats"
             }
         ],
-        "name": "Return to The Secret Name"
+        "name": "Return to The Secret Name",
+        "variant_of_code": "the_secret_name"
     },
     {
         "campaign_code": "rttcu",
@@ -4003,7 +4036,8 @@
                 "code": "the_watcher"
             }
         ],
-        "name": "Return to The Wages of Sin"
+        "name": "Return to The Wages of Sin",
+        "variant_of_code": "the_wages_of_sin"
     },
     {
         "campaign_code": "rttcu",
@@ -4031,7 +4065,8 @@
                 "code": "locked_doors"
             }
         ],
-        "name": "Return to For the Greater Good"
+        "name": "Return to For the Greater Good",
+        "variant_of_code": "for_the_greater_good"
     },
     {
         "campaign_code": "rttcu",
@@ -4076,7 +4111,8 @@
                 "code": "at_deaths_doorstep"
             }
         ],
-        "name": "Return to Union and Disillusion"
+        "name": "Return to Union and Disillusion",
+        "variant_of_code": "union_and_disillusion"
     },
     {
         "campaign_code": "rttcu",
@@ -4120,7 +4156,8 @@
                 "code": "arkham"
             }
         ],
-        "name": "Return to In the Clutches of Chaos"
+        "name": "Return to In the Clutches of Chaos",
+        "variant_of_code": "in_the_clutches_of_chaos"
     },
     {
         "campaign_code": "rttcu",
@@ -4145,7 +4182,8 @@
                 "code": "pentagram"
             }
         ],
-        "name": "Return to Before the Black Throne"
+        "name": "Return to Before the Black Throne",
+        "variant_of_code": "before_the_black_throne"
     },
     {
         "code": "curse_of_the_rougarou",

@@ -22,6 +22,10 @@ export const scenarioSchema = z.strictObject({
         )
         .describe("Encounter sets used by the scenario."),
     name: z.string().describe("Display name of the scenario."),
+    variant_of_code: z
+        .string()
+        .optional()
+        .describe("Code of the scenario that this scenario is a variant of."),
 });
 
 export type Scenario = z.infer<typeof scenarioSchema>;
