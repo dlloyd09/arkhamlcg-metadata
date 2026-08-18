@@ -2899,6 +2899,135 @@
         "name": "Queen of Ash"
     },
     {
+        "campaign_code": "cob",
+        "code": "river_of_blood",
+        "encounter_sets": [
+            {
+                "code": "river_of_blood"
+            },
+            {
+                "code": "blood_blight"
+            },
+            {
+                "code": "blood_moon"
+            },
+            {
+                "code": "children_of_blood"
+            },
+            {
+                "code": "hunted"
+            },
+            {
+                "code": "infected"
+            },
+            {
+                "code": "misinformation"
+            },
+            {
+                "code": "preyed_upon"
+            },
+            {
+                "code": "vermin"
+            },
+            {
+                "code": "dead_ends"
+            },
+            {
+                "code": "flying_terrors"
+            },
+            {
+                "code": "agents_of_zburamoarte"
+            },
+            {
+                "code": "mongrels"
+            },
+            {
+                "code": "afflicted"
+            }
+        ],
+        "name": "River of Blood"
+    },
+    {
+        "campaign_code": "cob",
+        "code": "new_horizons",
+        "encounter_sets": [
+            {
+                "code": "new_horizons"
+            },
+            {
+                "code": "afflicted"
+            },
+            {
+                "code": "blood_blight"
+            },
+            {
+                "code": "bloodthirst"
+            },
+            {
+                "code": "hunted"
+            },
+            {
+                "code": "infected"
+            },
+            {
+                "code": "sanguine_secrets"
+            },
+            {
+                "code": "vermin"
+            },
+            {
+                "code": "flying_terrors"
+            },
+            {
+                "code": "children_of_blood"
+            },
+            {
+                "code": "preyed_upon"
+            },
+            {
+                "code": "stalked"
+            },
+            {
+                "code": "reeking_decay"
+            }
+        ],
+        "name": "New Horizons"
+    },
+    {
+        "campaign_code": "cob",
+        "code": "blood_money",
+        "encounter_sets": [
+            {
+                "code": "blood_money"
+            },
+            {
+                "code": "agents_of_zburamoarte"
+            },
+            {
+                "code": "blood_blight"
+            },
+            {
+                "code": "bloodthirst"
+            },
+            {
+                "code": "children_of_blood"
+            },
+            {
+                "code": "hunted"
+            },
+            {
+                "code": "sanguine_secrets"
+            },
+            {
+                "code": "arcane_lock"
+            },
+            {
+                "code": "afflicted"
+            }
+        ],
+        "name": "Blood Money"
+    },
+    {
         "campaign_code": "rtnotz",
         "code": "return_to_the_gathering",
         "encounter_sets": [

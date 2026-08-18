@@ -197,6 +197,13 @@
         "scenarios": ["spreading_flames", "smoke_and_mirrors", "queen_of_ash"]
     },
     {
+        "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/a8/9c/a89c98b9-9de4-4b6c-8110-80fedbdcdb60/ahc106_campaign_guide-web.pdf",
+        "code": "cob",
+        "cycle_code": "small_campaign_expansions",
+        "name": "Children of Blood",
+        "scenarios": ["river_of_blood", "new_horizons", "blood_money"]
+    },
+    {
         "campaign_guide_url": "https://images-cdn.fantasyflightgames.com/filer_public/d4/64/d4646915-30d8-49a4-9d90-95be8f15b69f/ahc26_rules_insert.pdf",
         "code": "rtnotz",
         "cycle_code": "return",
